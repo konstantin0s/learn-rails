@@ -1,2 +1,3 @@
-# learn-rails
-Learning new languages is fun especially when you end pu by creating apps.
+# Learning Rails
+==
+Learning Rails with a tutorial from the RailsApps project.
